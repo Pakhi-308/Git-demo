@@ -1,2 +1,4 @@
 # Git-demo
-This is my first Git Repository.<br>Author-Pakhi Shukla
+This is my first Git Repository.
+<br>
+Author - Pakhi Shukla
